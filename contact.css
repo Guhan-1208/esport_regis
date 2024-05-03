@@ -1,0 +1,60 @@
+ul{
+    display:fixed;
+    list-style: circle;
+    color: white;
+	align-content:center;
+	align-items:center;
+	text-align:center;
+	 font-family:  Arial;
+
+}
+ul li{
+    width: 25px;
+    margin: 25px;
+    padding: 0px;
+	
+}
+.outbox{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    background-color:transparent;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 450px;
+    width: 400px;
+}
+.outter{
+	 
+    align-items: center;
+    align-content: center;
+}
+h3{
+	text-align:center;
+	font-family: 'Gill Sans', 'Gill Sans MT';
+	color:white;
+}
+body{
+	background-size: cover;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+	padding-top:100px;
+	background-image:url("https://images.pexels.com/photos/3165335/pexels-photo-3165335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+
+}
+ div {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    padding-left: 140px;
+}
+li a {
+    text-decoration: none;
+    color:white; 
+}

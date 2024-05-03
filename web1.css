@@ -1,0 +1,62 @@
+div{
+    border: 1px solid powderblue;
+    margin: 50px;
+    text-align: center;
+    
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+.topic{
+    text-align: center;
+    
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+  
+    
+   
+    
+}
+.outter{
+background-image: url(https://newdigitalage.co/wp-content/uploads/2022/06/iStock-1334436084.jpg);
+background-size: cover;
+justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    display: flex;
+
+
+
+
+}
+
+.text{
+    text-align: center;
+    background-color: rgba(22, 127, 219, 0.133);
+    
+}
+.textbox{
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+  
+    }
+.box{
+    background-color:transparent;
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 450px;
+    width: 400px;
+   
+   
+  
+}
+    
+  
+    
+
