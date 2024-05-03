@@ -51,5 +51,11 @@ li a {
     text-decoration: none;
     color:white; 
 }
+@media screen and (max-width:414px) {
+    
+} 
+*{
+    visibility: collapse;
+}
 
 
