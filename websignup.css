@@ -18,6 +18,7 @@ div{
     
   background-image: url("https://images.pexels.com/photos/735911/pexels-photo-735911.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
     background-size: cover;
+    background-attachment: fixed;
     justify-content: center;
     justify-items: center;
     align-items: center;

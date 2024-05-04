@@ -27,6 +27,7 @@ ul li{
 body{
     background-image:url(https://i0.wp.com/wallpapercave.com/wp/wp7203920.jpg);
     background-size: cover;
+    background-attachment: fixed;
    
     
 }

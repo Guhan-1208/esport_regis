@@ -22,6 +22,7 @@ div{
 .outter{
 background-image: url(https://newdigitalage.co/wp-content/uploads/2022/06/iStock-1334436084.jpg);
 background-size: cover;
+background-attachment: fixed;
 justify-content: center;
     justify-items: center;
     align-items: center;
@@ -55,6 +56,20 @@ justify-content: center;
    
    
   
+}
+.box button {
+    padding: 10px 12px;
+    font-size: 15px;
+    background-color: #0074D9;
+    color: #ffffff;
+    border: none;
+    cursor: pointer;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+
+.box button:hover {
+    background-color: #9d04ef;
 }
     
   
